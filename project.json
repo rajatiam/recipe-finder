@@ -1,0 +1,8 @@
+{
+  "number": 7,
+  "name": "Recipe finder",
+  "slug": "recipe-finder",
+  "level": "Beginner",
+  "description": "Search recipes, save favorites, and practice API integration.",
+  "status": "planning"
+}
